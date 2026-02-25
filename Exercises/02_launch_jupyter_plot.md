@@ -159,6 +159,14 @@ Windows users may:
 - Use PowerShell
 - Or install Anaconda (simpler option)
 
+# Part 5-- Reference Example
 
+A fully rendered example notebook (exported as HTML) is available here:
+
+👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/matplotlib_functions.html
+
+Use this as a reference to compare your output.
+
+Do not copy the code directly — recreate it in your own notebook.
 
 
