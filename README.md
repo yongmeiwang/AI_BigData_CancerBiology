@@ -26,5 +26,6 @@ The repository is organized into modular components:
 - `data/` – teaching datasets  
 - `setup/` – environment configuration  
 - `docs/` – future course website
+
 Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `exercises/` directory.
 Teaching datasets included in this repository are derived from publicly available open-access resources (e.g., GTEx).
