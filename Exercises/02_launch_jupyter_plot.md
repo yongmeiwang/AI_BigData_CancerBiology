@@ -64,6 +64,8 @@ If not, download Python from:
 https://www.python.org/downloads/
 
 ---
+For PC users, please view another file under Exercises: "02_PC_launch_jupyter_plot.md"
+
 
 ## Step 2 — Install Jupyter
 
