@@ -57,7 +57,7 @@ This activity includes separate instructions for Mac and Windows users.
 - 🍎 **Mac users**: Follow the instructions below in this file.
 - 🪟 **Windows users**: Please open and follow:
 
-  `02_PC_launch_jupyter_md_plot.md`([Windows Users: Click here for PC Instructions](02_PC_launch_jupyter_md_plot.md))
+  `02_PC_launch_jupyter_md_plot.md`([Windows Users: Click here for PC Instructions](02_PC_launch_jupyter_plot.md))
 
 Make sure you follow the instructions corresponding to your operating system.
 
