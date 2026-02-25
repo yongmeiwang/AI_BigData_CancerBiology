@@ -50,7 +50,16 @@ Do not worry about advanced topics.
 ---
 # Part 1 — Installation and Setup
 
-## 🍎 Mac Users. // PC users 
+## Operating System Instructions
+
+This activity includes separate instructions for Mac and Windows users.
+
+- 🍎 **Mac users**: Follow the instructions below in this file.
+- 🪟 **Windows users**: Please open and follow:
+
+  `02_PC_launch_jupyter_md_plot.md`
+
+Make sure you follow the instructions corresponding to your operating system.
 
 Open Terminal (Mac) or Command Prompt / PowerShell (Windows).
 
@@ -64,7 +73,6 @@ If not, download Python from:
 https://www.python.org/downloads/
 
 ---
-For PC users, please view another file under Exercises: "02_PC_launch_jupyter_plot.md"
 
 
 ## Step 2 — Install Jupyter
