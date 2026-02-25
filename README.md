@@ -6,9 +6,9 @@ An introduction to big data in cancer biology and data-driven analysis using art
 
 Modern cancer research has entered an era dominated by large-scale genomic, transcriptomic, and clinical datasets. Yet many trainees—from high school students to undergraduate researchers and laboratory-based scientists—lack exposure to the breadth of available data resources and the analytical frameworks required to extract biological insight. Without this foundation, the potential of public cancer datasets to inform hypothesis generation and experimental validation remains underutilized. This course is designed to provide a conceptual and practical bridge between biological experimentation and data-driven discovery.
 
-This course does not assume you have any coding experience. You can start from scratch zero, but will learn to use AI to help you code and interpret biomedidcal data. 
+This course does not assume you have any coding experience. You can start from scratch zero, but will learn to use AI to help you code and interpret biomedical data.
 
-This course will include the following contents:
+This course will introduce students to:
 - The historical development of “big data” in cancer biology
 - Genomic and transcriptomic datasets (TCGA, GTEx, etc.)
 - Basic RNA-seq data interpretation
@@ -18,8 +18,6 @@ This course will include the following contents:
 ---
 
 ## 📂 Repository Structure
-## 📂 Repository Structure
-## Repository Structure
 
 The repository is organized into modular components:
 
