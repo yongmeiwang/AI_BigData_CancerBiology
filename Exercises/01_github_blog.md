@@ -73,13 +73,17 @@ Inside your repository:
 _posts
 
 Note: The post folder must be named as "_posts". 
+
 3. Inside `_posts`, create a file named:
 
 2026-02-25-first-post.md
 
 (Note your posts should always use the date in YYYY-MM-DD format. Then your posts will appear on your blog)
+
 4. Edit your first post with the following content:
+
 layout: post
+
 title: “My First Scientific Blog Post”
 
 Welcome to my academic webpage.
