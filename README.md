@@ -67,10 +67,15 @@ Investigate whether mutation of specific genes impacts overall survival in TCGA 
 
 ## Rendered Example Notebooks
 
-Rendered HTML examples are available via GitHub Pages:
+Rendered HTML notebooks are available via GitHub Pages:
 
-- Logistic Regression Example  
-- TCGA Mutation Analysis  
+- Basic Matplotlib Example  
+  👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/matplotlib_functions.html
+
+- TCGA BRCA Mutation Analysis  
+  👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/TCGA_BRCA_Mutations.html
+
 - Kaplan–Meier Survival Analysis  
+  👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutatoin.html
 
-👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/
+  
