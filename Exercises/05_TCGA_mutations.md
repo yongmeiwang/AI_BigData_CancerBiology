@@ -52,7 +52,7 @@ Use a relative path when loading the file in your notebook.
 
 A rendered example notebook is available here:
 
-👉 [TCGA BRCA Mutations Example](../Examples/TCGA_BRCA_Mutations.html)
+👉 [TCGA BRCA Mutations Example](https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/TCGA_BRCA_Mutations.html)
 
 Use this as a structural reference only.  
 Do not copy code directly.
