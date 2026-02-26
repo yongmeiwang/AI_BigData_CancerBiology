@@ -76,6 +76,5 @@ Rendered HTML notebooks are available via GitHub Pages:
   👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/TCGA_BRCA_Mutations.html
 
 - Kaplan–Meier Survival Analysis  
-  👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutatoin.html
+  👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutation.html
 
-  
