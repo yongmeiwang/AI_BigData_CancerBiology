@@ -27,13 +27,16 @@ By completing this activity, you will be able to:
 
 ---
 
-## ## Dataset
+## Dataset
 
 You are provided:
 
 Gtex_integrin_7_organ.xlsx
 
+The file is currently located under directory "data/" folder.
+
 Place the file in your working directory or a `data/` folder.
+
 
 ---
 
