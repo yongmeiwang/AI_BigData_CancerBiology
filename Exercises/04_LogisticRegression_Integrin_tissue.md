@@ -27,7 +27,7 @@ observe → hypothesize → test → evaluate → extend.
 
 Use the same dataset from Exercise 03:
 
-data/gtex_tntegrin_7_organs.xlsx
+data/gtex_integrin_7_organs.xlsx
 
 ---
 
