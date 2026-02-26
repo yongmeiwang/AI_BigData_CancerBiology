@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "AI and Big Data in Cancer Biology"
+message: "If you use this course material, please cite it as follows."
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yongmei
+    affiliation: University of Memphis
+license: CC-BY-4.0
+repository-code: https://github.com/yongmeiwang/AI_BigData_CancerBiology
+abstract: >
+  A hands-on computational course introducing AI and big data approaches in cancer biology,
+  integrating gene expression analysis, predictive modeling, somatic mutation analysis,
+  and clinical survival analysis using public datasets such as GTEx and TCGA.
