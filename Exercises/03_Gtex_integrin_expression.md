@@ -1,7 +1,11 @@
 # Hands-On Activity 03  
 ## GTEx Integrin Expression: Lung vs Breast (Jupyter Notebook)
 
-In this activity, you will use a curated GTEx-derived dataset to compare **integrin gene expression** between **Lung** and **Breast** tissues.
+In this activity, you will use a curated GTEx-derived dataset to compare **integrin gene expression** between **Lung** and **Breast** tissues using Jupyter Notebook
+
+
+This exercise is intentionally less guided.
+You are expected to explore the dataset and construct your own analysis workflow, and learning to use python coding more. You may use ChatGPT or Gemini to help you learn the coding. 
 
 You will practice:
 - loading an Excel file with pandas
@@ -41,6 +45,21 @@ A rendered example notebook is available here:
 
 Use this as a structural reference only.  
 Do not copy code directly.
+## Important Note About File Paths
+
+The reference example notebook uses a full local path (e.g., `C:\Users\...`).
+
+You should **NOT** hard-code your personal computer’s absolute file path.
+
+Instead, use a **relative path**, such as:
+
+- `"Gtex_integrin_7_organ.xlsx"`  
+- `"data/Gtex_integrin_7_organ.xlsx"`
+
+Relative paths make your notebook portable and reproducible.
+Your code should work on another computer without modification.
+
+This is an important practice in computational research.
 
 ## Your Task
 
