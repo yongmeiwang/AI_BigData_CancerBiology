@@ -29,3 +29,48 @@ The repository is organized into modular components:
 
 Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `Exercises/` directory.
 Teaching datasets included in this repository are derived from publicly available open-access resources (e.g., GTEx, TCGA, CCLE).
+
+## Hands-On Exercises
+
+In Exercises Folders, we provide 6 progressive computational workflow.
+
+### Exercise 01 — Establishing Your Scientific Web Presence
+Create a personal GitHub Pages website and understand how open scientific communication works.
+
+### Exercise 02 — Launching Jupyter and Exploring Basic Plotting
+Install Jupyter Notebook, learn basic terminal commands, and generate simple math plots.
+
+### Exercise 03 — Gene Expression Analysis with Pandas (GTEx)
+Introduce structured data manipulation using **pandas**:
+- Load Excel files
+- Filter and subset data
+- Compute summary statistics
+- Generate violin/box plots
+- Interpret tissue-specific gene expression
+
+### Exercise 04 — Logistic Regression and Model Evaluation
+Use integrin expression to classify tissues.
+Explore:
+- Single-gene prediction
+- Multi-gene prediction
+- Confusion matrix
+- ROC curves
+- Model stability
+
+### Exercise 05 — Mutation Frequency in TCGA BRCA
+Identify the most frequently mutated genes in breast cancer using TCGA mutation data.
+
+### Exercise 06 — Mutation and Patient Survival
+Investigate whether mutation of specific genes impacts overall survival in TCGA BRCA using Kaplan–Meier analysis.
+
+---
+
+## Rendered Example Notebooks
+
+Rendered HTML examples are available via GitHub Pages:
+
+- Logistic Regression Example  
+- TCGA Mutation Analysis  
+- Kaplan–Meier Survival Analysis  
+
+👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/
