@@ -25,14 +25,14 @@ The repository is organized into modular components:
 - `Exercises/` – computational assignments  
 - `Data/` – teaching datasets  
 - `Examples/` – Rendered html of Jupyter Notebook Examples 
-- `docs/` – future course website
+
 
 Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `Exercises/` directory.
 Teaching datasets included in this repository are derived from publicly available open-access resources (e.g., GTEx, TCGA, CCLE).
 
 ## Hands-On Exercises
 
-In Exercises Folders, we provide 6 progressive computational workflow.
+The Exercises Folder contains 6 progressive computational workflow.
 
 ### Exercise 01 — Establishing Your Scientific Web Presence
 Create a personal GitHub Pages website and understand how open scientific communication works.
