@@ -1,4 +1,4 @@
-# # Hands-On Activity 04  
+# Hands-On Activity 04  
 ## From Visualization to Prediction  
 ### Logistic Regression with Integrin Expression
 
