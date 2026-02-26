@@ -24,7 +24,7 @@ The repository is organized into modular components:
 - `Lectures/` – lecture materials and notebooks  
 - `Exercises/` – computational assignments  
 - `Data/` – teaching datasets  
-- `Examples/` – environment configuration  
+- `Examples/` – Rendered html of Jupyter Notebook Examples 
 - `docs/` – future course website
 
 Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `Exercises/` directory.
