@@ -21,11 +21,11 @@ This course will introduce students to:
 
 The repository is organized into modular components:
 
-- `lectures/` – lecture materials and notebooks  
-- `exercises/` – computational assignments  
-- `data/` – teaching datasets  
-- `setup/` – environment configuration  
+- `Lectures/` – lecture materials and notebooks  
+- `Exercises/` – computational assignments  
+- `Data/` – teaching datasets  
+- `Examples/` – environment configuration  
 - `docs/` – future course website
 
-Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `exercises/` directory.
+Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `Exercises/` directory.
 Teaching datasets included in this repository are derived from publicly available open-access resources (e.g., GTEx, TCGA, CCLE).
