@@ -1,5 +1,5 @@
 # AI and Big Data in Cancer Biology
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18796725.svg)](https://doi.org/10.5281/zenodo.18796725)
 An introduction to big data in cancer biology and data-driven analysis using artificial intelligence
 
 ## 🎯 Course Vision
