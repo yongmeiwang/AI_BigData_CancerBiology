@@ -1,5 +1,5 @@
 # AI and Big Data in Cancer Biology
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18796725.svg)](https://doi.org/10.5281/zenodo.18796725)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18796724.svg)](https://doi.org/10.5281/zenodo.18796724)
 An introduction to big data in cancer biology and data-driven analysis using artificial intelligence
 
 ## 🎯 Course Vision
@@ -83,4 +83,4 @@ Rendered HTML notebooks are available via GitHub Pages:
 If you use this course material, please cite:
 
 Wang, Y. (2025). *AI and Big Data in Cancer Biology*. 
-Zenodo: https://doi.org/10.5281/zenodo.18796725
+Zenodo: https://doi.org/10.5281/zenodo.18796724
