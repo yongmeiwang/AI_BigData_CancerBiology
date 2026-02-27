@@ -78,3 +78,9 @@ Rendered HTML notebooks are available via GitHub Pages:
 - Kaplan–Meier Survival Analysis  
   👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutation.html
 
+## Citation
+
+If you use this course material, please cite:
+
+Wang, Y. (2025). *AI and Big Data in Cancer Biology*. Zenodo.  
+https://doi.org/10.5281/zenodo.18796725
