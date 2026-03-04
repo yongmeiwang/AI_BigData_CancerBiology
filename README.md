@@ -1,14 +1,9 @@
 # AI and Big Data in Cancer Biology
-University of Memphis
-
+University of Memphis 
 course materials
-
 Jupyter notebooks
-
 RNA-seq analysis
-
 machine learning
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18796724.svg)](https://doi.org/10.5281/zenodo.18796724)
 
 An introduction to big data in cancer biology and data-driven analysis using artificial intelligence for undergraduates and high school students
