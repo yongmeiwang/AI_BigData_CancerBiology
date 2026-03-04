@@ -1,12 +1,20 @@
 # AI and Big Data in Cancer Biology
 University of Memphis   
-course materials  
-Jupyter notebooks  
-RNA-seq analysis  
-machine learning  
+course materials   
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18796724.svg)](https://doi.org/10.5281/zenodo.18796724)
 
+
 ### An introduction to big data in cancer biology and data-driven analysis using artificial intelligence for undergraduates and high school students
+## Course Overview
+
+Artificial Intelligence is rapidly transforming biomedical research.
+This course introduces undergraduate students to the concepts of
+AI and Big Data in cancer biology, including genomics, transcriptomics,
+machine learning, and network analysis.
+
+Students will learn how modern cancer research integrates
+large-scale molecular datasets with computational analysis
+to enable precision oncology.
 
 ## 🎯 Course Vision
 
@@ -22,6 +30,26 @@ This course will introduce students to:
 - Introductory machine learning concepts applied to cancer datasets
 
 ---
+## Course Structure
+
+| Lecture | Topic |
+|--------|------|
+| 1 | Introduction to Cancer |
+| 2 | Sequencing Technology Development |
+| 3 | Multiomics data in Cancer |
+| 4 | AI in Medicines|
+| 5 | Mutation Data in Cancer|
+| 6 | Cancer Cell Lines Data|
+| 7 | Liquid Biopsy of Cancer |
+## How to Use This Repository
+
+This repository hosts course materials for the course
+“AI and Big Data in Cancer Biology”.
+
+You may:
+• Browse the materials directly on GitHub  
+• Download individual files  
+• Download the entire repository as a ZIP archive
 
 ## 📂 Repository Structure
 
@@ -31,7 +59,6 @@ The repository is organized into modular components:
 - `Exercises/` – computational assignments  
 - `Data/` – teaching datasets  
 - `Examples/` – Rendered html of Jupyter Notebook Examples 
-
 
 Lecture slides are provided in PDF format. In-class activities are implemented as Jupyter notebooks under the `Exercises/` directory.
 Teaching datasets included in this repository are derived from publicly available open-access resources (e.g., GTEx, TCGA, CCLE).
