@@ -84,6 +84,15 @@ Rendered HTML notebooks are available via GitHub Pages:
 - Kaplan–Meier Survival Analysis  
   👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutation.html
 
+## Feedback and Suggestions
+
+We welcome feedback to improve this course.
+
+If you find errors, unclear explanations, or have suggestions for improvement,
+please open an Issue:
+
+https://github.com/yongmeiwang/AI_BigData_CancerBiology/issues 
+
 ## Citation
 
 If you use this course material, please cite:
