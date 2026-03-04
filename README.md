@@ -93,6 +93,8 @@ please open an Issue:
 
 https://github.com/yongmeiwang/AI_BigData_CancerBiology/issues 
 
+## Contributions to course contents
+
 Contributions are welcome!  
 Please submit a Pull Request if you would like to improve course materials.
 
