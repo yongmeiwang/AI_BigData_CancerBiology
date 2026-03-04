@@ -3,9 +3,9 @@
 A hands-on set of lectures and reproducible exercises using public datasets (GTEx, TCGA) to learn data analysis and introductory AI concepts in cancer biology.
 
 ## Course Materials
-- [Lecture 1: Introduction to Cancer](lectures/01_Introduction_to_Cancer.pdf)
-- [Lecture 2: Cancer Genomics](lectures/02_SequencingTechnologyDevelopment.pdf)
-- [Lecture 3: MultiOmics Data in Cancer](lectures/03_MulticOmicsData_Cancer.pdf)
+- [Lecture 1: Introduction to Cancer](Lectures/01_Introduction_to_Cancer.pdf)
+- [Lecture 2: Cancer Genomics](Lectures/02_SequencingTechnologyDevelopment.pdf)
+- [Lecture 3: MultiOmics Data in Cancer](Lectures/03_MulticOmicsData_Cancer.pdf)
 - 
 - Exercises: ../Exercises/
 - Lectures (PDF): ../Lectures/
