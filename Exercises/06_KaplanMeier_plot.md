@@ -11,7 +11,7 @@ You will construct Kaplan–Meier survival curves and interpret the results.
 
 A sample Kaplan–Meier notebook is available here:
 
-👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/TCGA_BRCA_Survival_KaplanMeier.html
+👉 https://yongmeiwang.github.io/AI_BigData_CancerBiology/Examples/06_survival_mutation.html.html
 
 Use this example to understand:
 - How mutation status is defined
