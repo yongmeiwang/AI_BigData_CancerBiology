@@ -23,7 +23,10 @@ There are two tutorials that tell you how to create personal blog on Github, whi
 The first one is here: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html 
 
 The second one is given here: https://kombateldridge.github.io/2022/06/14/GitHub-Page-Tutorial.html 
-Please go there and read the examples to understand what you are doing. The following instructions should also work. 
+
+Please go there and read the examples to understand what you are doing. 
+
+The following instructions should also work, but you will need to figure out how to choose styles etc
 
 ## Step 0 — Create a GitHub Account
 
