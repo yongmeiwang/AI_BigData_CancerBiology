@@ -18,6 +18,12 @@ By completing this activity, you will:
 - Reflect on scientific communication in the digital era
 
 ---
+##Examples to Follow
+There are two tutorials that tell you how to create personal blog on Github, which you can follow. 
+The first one is here: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html 
+The second one is given here: https://kombateldridge.github.io/2022/06/14/GitHub-Page-Tutorial.html 
+Please go there and read the examples to understand what you are doing. The following instructions should also work. 
+
 ## Step 0 — Create a GitHub Account
 
 1. Go to https://github.com
