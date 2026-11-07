@@ -40,7 +40,7 @@ Choose a professional username, as it may become part of your academic identity.
 ## Step 1 — Create Your Personal Repository:
 
 1. Log in to GitHub.
-2. Create a new repository named: yourusername.github.io by following the [this])https://github.com/new?template_name=simple-blog-bootstrap&template_owner=chadbaldwin)  link 
+2. Create a new repository named: yourusername.github.io by following the [this](https://github.com/new?template_name=simple-blog-bootstrap&template_owner=chadbaldwin)  link 
 
 Replace `yourusername` with your actual GitHub username.
 
